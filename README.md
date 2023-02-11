@@ -1,0 +1,2 @@
+# AltLinux
+InstallPack_App
